@@ -1,10 +1,42 @@
-generations:
-  - name: "First Generation (Australian)"
-    start_year: 2004
-    end_year: 2016
-    description: "The original Ford Territory was a mid-size SUV developed by Ford Australia, based on the locally designed and built Falcon platform. This unique approach resulted in a rear-wheel or all-wheel drive SUV with car-like handling characteristics uncommon in SUVs of its era. Initially powered by a 4.0L inline-six engine with either naturally aspirated or turbocharged variants, a 2.7L V6 diesel sourced from Land Rover was added in 2011. The interior featured innovative 'Territory Command Driving Position' with excellent visibility and numerous family-friendly storage solutions, including a removable bin under the center console. Available in five or seven-seat configurations across various trim levels from the basic TX to the luxury Ghia, it offered features uncommon in Australian-developed vehicles. A significant update in 2011 (SZ) refreshed the styling, improved refinement, and introduced the diesel engine option. The Territory was a significant success for Ford Australia, winning numerous awards and addressing the growing SUV market while leveraging local engineering expertise. Production ended in 2016 with the closure of Ford's Australian manufacturing operations."
+references:
+  - "https://en.wikipedia.org/wiki/Ford_Territory_(Australia)"
+  - "https://en.wikipedia.org/wiki/Ford_Territory_(China)"
 
-  - name: "Second Generation (Chinese market)"
+generations:
+  # Australian Territory (EA169 Platform)
+  - name: "First Generation (SX Series)"
+    start_year: 2004
+    end_year: 2005
+    description: "The original Ford Territory was developed by Ford Australia as a mid-size crossover SUV, built on the locally designed EA169 platform shared with the Falcon. The SX series was produced from April 2004 to September 2005 and represented Ford Australia's first foray into the SUV market. Powered exclusively by a 4.0L Barra inline-six engine producing 182 kW, paired with a four-speed automatic transmission, it was available in both rear-wheel drive and all-wheel drive configurations. The interior featured Ford's innovative 'Territory Command Driving Position' with excellent visibility and theatre-style seating for five or seven passengers. Model variants included TX, TS, and Ghia trim levels."
+
+  - name: "First Generation (SY Series)"
+    start_year: 2005
+    end_year: 2009
+    description: "The SY series, introduced in October 2005, was primarily a mechanical upgrade with no significant visual changes from the SX. Key improvements included increased engine power to 190 kW for the naturally aspirated Barra six, and a new six-speed ZF automatic transmission for AWD models. This series introduced Australia's first factory-fitted reverse parking camera (optional on TS, standard on Ghia). A turbocharged variant of the Barra engine debuted in mid-2006, producing 245 kW and making it one of the most powerful SUVs in Australia. Ford Performance Vehicles (FPV) also introduced the F6X high-performance variant in 2008, producing 270 kW."
+
+  - name: "First Generation (SY II Facelift)"
+    start_year: 2009
+    end_year: 2011
+    description: "The SY II series, revealed at the 2009 Melbourne Motor Show and launched in May 2009, represented a mid-cycle facelift for the first generation Territory. Exterior changes included a mildly restyled front end with revised bumper and grille, while interior trim received contemporary updates. A significant mechanical improvement was a revised front suspension design that addressed premature wear issues with the lower ball joints. The FPV F6X was discontinued during this series due to low sales. The SY II earned a five-star ANCAP rating when seatbelt warning chimes were added to cars produced from January 2010."
+
+  # Australian Territory (E8 Platform)
+  - name: "Second Generation (SZ Series)"
+    start_year: 2011
+    end_year: 2014
+    description: "The SZ series marked a major generational change as the Territory migrated to Ford's E8 platform (from the FG Falcon), representing a significant investment of A$230 million in development. This facelift adopted Ford's global Kinetic Design language with a prominent lower grille, slim upper intake, and horizontal tail lights replacing the previous vertical units. A major highlight was the introduction of Ford's first locally produced diesel engine - a 2.7L Lion V6 sourced from Jaguar/Land Rover - addressing customer concerns about high fuel consumption of the petrol engines. The interior gained an eight-inch touchscreen with Ford's SYNC system, and safety was enhanced with a driver's knee airbag and updated stability control. The Ghia model was replaced by the Titanium."
+
+  - name: "Second Generation (SZ II Facelift)"
+    start_year: 2014
+    end_year: 2016
+    description: "The SZ II series, introduced in December 2014 alongside the FG X Falcon, represented the final iteration of Australian-built Territory production before Ford Australia ceased manufacturing in October 2016. External styling revisions included a new fascia and alloy wheels, though the Territory lost its LED position lights in favor of traditional foglights. Interior upgrades featured updated trim colors and the SYNC2 infotainment system with voice command, Wi-Fi connectivity, DAB+ radio, and emergency call functionality. Minor mechanical refinements improved fuel efficiency by approximately 0.5%. The SZ II series was the final chapter for Australian-made Territory, with total production reaching 178,214 units over twelve years."
+
+  # Chinese Territory (JMC-Ford)
+  - name: "First Generation (CX743)"
     start_year: 2018
+    end_year: 2022
+    description: "The Chinese-market Ford Territory, unrelated to the Australian model, was introduced in 2018 as a compact crossover SUV produced through the JMC-Ford joint venture. Based on the JMC Yusheng S330, it featured Ford's global design language with a prominent grille and sleek headlights. Powered by a 1.5L EcoBoost turbocharged inline-four engine producing approximately 138-148 hp depending on market, it was offered with manual, CVT, or automatic transmissions and front-wheel drive layout. An electric version (Territory EV) was also introduced in China in 2019 with a 120 kW motor and 360 km NEDC range. Despite being developed for the Chinese market, Ford Australia contributed to ride and handling tuning at their Geelong Proving Grounds."
+
+  - name: "Second Generation (CX743MCA/Equator Sport)"
+    start_year: 2022
     end_year: null
-    description: "The current Territory, unrelated to the Australian model, is a compact crossover SUV developed for emerging markets, primarily China, through a joint venture with Jiangling Motors (JMC). Based on the JMC Yusheng S330, it features Ford's global design language with a prominent grille, sleek headlights, and conventional crossover proportions. Powertrain options vary by market but typically include a 1.5L EcoBoost turbocharged gasoline engine or a 48V mild hybrid system in some regions. The interior represents a significant focus area with a modern design featuring a floating touchscreen infotainment system, digital instrument options, and contemporary connectivity features. Available in five-seat configuration only, it emphasizes value with competitive feature content at its price point. This generation represents Ford's strategy of developing market-specific products for regions like China, South America, and parts of Asia, leveraging partnerships to create cost-effective vehicles tailored to local requirements. Unlike the Australian Territory which was a domestically engineered premium product, this model focuses on affordability and technology features important to emerging market consumers."
+    description: "The second-generation Territory, launched in 2022, is essentially the JMC-Ford Equator Sport marketed internationally as the Territory. Built on updated underpinnings from the first generation, it features significantly revised exterior styling aligned with Ford's global design identity. Engine options include an improved 1.5L EcoBoost producing 160 hp (up 17 hp from before) paired with a new 7-speed wet dual-clutch transmission, and for some markets a 1.8L EcoBoost. A hybrid variant with power-split drivetrain was introduced starting in 2025. Production occurs in China (Nanchang), with additional assembly in Taiwan (Ford Lio Ho) and Vietnam (Ford Vietnam). The model is exported to markets including the Philippines, Mexico, Middle East, South Africa, and Vietnam."
