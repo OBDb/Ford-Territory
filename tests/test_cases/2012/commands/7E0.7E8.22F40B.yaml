@@ -3,3 +3,27 @@ test_cases:
 - expected_values:
     FORD_MAP: 14.06878
   response: 7E80462F40B61
+- expected_values:
+    FORD_MAP: 14.21382
+  response: 7E80462F40B62
+- expected_values:
+    FORD_MAP: 14.35886
+  response: 7E80462F40B63
+- expected_values:
+    FORD_MAP: 14.50389
+  response: 7E80462F40B64
+- expected_values:
+    FORD_MAP: 15.51917
+  response: 7E80462F40B6B
+- expected_values:
+    FORD_MAP: 15.66421
+  response: 7E80462F40B6C
+- expected_values:
+    FORD_MAP: 15.80924
+  response: 7E80462F40B6D
+- expected_values:
+    FORD_MAP: 16.3894
+  response: 7E80462F40B71
+- expected_values:
+    FORD_MAP: 17.69475
+  response: 7E80462F40B7A
