@@ -1,5 +1,5 @@
 command_id: 760.768.222B0D
 test_cases:
 - expected_values:
-    FORD_BRK_FL_P: 255
+    TERRITORY_BRK_FL_P: 65534
   response: 76805622B0DFFFE

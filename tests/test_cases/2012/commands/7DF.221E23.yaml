@@ -1,8 +1,8 @@
 command_id: 7DF.221E23
 test_cases:
 - expected_values:
-    FORD_GEAR_SHFT_V2: null
+    TERRITORY_GEAR_SHFT_7DF: 46
   response: 7E904621E232E
 - expected_values:
-    FORD_GEAR_SHFT_V2: PARK
+    TERRITORY_GEAR_SHFT_7DF: 70
   response: 7E904621E2346
