@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22F40C
 test_cases:
 - expected_values:
-    FORD_RPM: 0
+    TERRITORY_RPM: 0
   response: 7E80562F40C0000
 - expected_values:
-    FORD_RPM: 1533
+    TERRITORY_RPM: 1533
   response: 7E80562F40C17F4
 - expected_values:
-    FORD_RPM: 2074
+    TERRITORY_RPM: 2074
   response: 7E80562F40C2068

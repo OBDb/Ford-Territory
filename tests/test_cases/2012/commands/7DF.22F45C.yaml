@@ -1,6 +1,0 @@
-command_id: 7DF.22F45C
-test_cases:
-- expected_values: {}
-  response: 7E80462F45C4E
-- expected_values: {}
-  response: 7E80462F45C79
