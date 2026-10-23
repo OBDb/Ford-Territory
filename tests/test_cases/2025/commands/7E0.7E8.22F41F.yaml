@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22F41F
+test_cases:
+- expected_values:
+    TERRITORY_RUN_TIME: 0
+  response: 7E80562F41F0000
+- expected_values:
+    TERRITORY_RUN_TIME: 84
+  response: |-
+    7E80562F41F0054
+    7E806490055400001
+    7E803410D3B
+    7E804410C20CA
+    7E804411009B0
+    7E804415E00A3
+    7E806419D00530053
+    7E803410D3B
+    7E804410C2074
+- expected_values:
+    TERRITORY_RUN_TIME: 219
+  response: |-
+    7E80562F41F00DB
+    7E80441448000
+    7E803410D31
+    7E803412F4A
+    7E804410C233C
+    7E803410D32
+- expected_values:
+    TERRITORY_RUN_TIME: 255
+  response: 7E80562F41F00FF
+- expected_values:
+    TERRITORY_RUN_TIME: 2060
+  response: 7E80562F41F080C

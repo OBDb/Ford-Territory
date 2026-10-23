@@ -1,0 +1,15 @@
+command_id: 7E0.7E8.22F40B
+test_cases:
+- expected_values:
+    TERRITORY_MAP: 3.3359
+  response: 7E80462F40B17
+- expected_values:
+    TERRITORY_MAP: 19.0001
+  response: |-
+    7E80462F40B83
+    7E804411F00DD
+    7E803410D31
+    7E804410C1E16
+- expected_values:
+    TERRITORY_MAP: 36
+  response: 7E80462F40BFF
