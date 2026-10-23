@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F406
+test_cases:
+- expected_values:
+    TERRITORY_STFT: -11.71875
+  response: 7E80462F40671
+- expected_values:
+    TERRITORY_STFT: 0
+  response: |-
+    7E80462F40680
+    7E803410D37
+    7E804410C0000
+- expected_values:
+    TERRITORY_STFT: 19.53125
+  response: 7E80462F40699

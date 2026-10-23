@@ -1,0 +1,24 @@
+command_id: 7E0.7E8.22F430
+test_cases:
+- expected_values:
+    TERRITORY_WARMUP_CLR: 135
+  response: |-
+    7E804415E0000
+    7E80462F43087
+    7E804410C0000
+    7E806419D00000000
+    7E803410F59
+    7E803410D3B
+- expected_values:
+    TERRITORY_WARMUP_CLR: 122
+  response: 7E80462F4307A
+- expected_values:
+    TERRITORY_WARMUP_CLR: 135
+  response: |-
+    7E80462F43087
+    7E804410C0000
+    7E803410D37
+    7E805416703855E
+- expected_values:
+    TERRITORY_WARMUP_CLR: 146
+  response: 7E80462F43092

@@ -1,0 +1,21 @@
+command_id: 7E0.7E8.22F43C
+test_cases:
+- expected_values:
+    TERRITORY_CAT_TEMP: 28.4
+  response: 7E80562F43C02AC
+- expected_values:
+    TERRITORY_CAT_TEMP: 36.6
+  response: 7E80562F43C02FE
+- expected_values:
+    TERRITORY_CAT_TEMP: 600
+  response: 7E80562F43C1900
+- expected_values:
+    TERRITORY_CAT_TEMP: 665.4
+  response: |-
+    7E80562F43C1B8E
+    7E803410D35
+    7E804410C1E9C
+    7E8024300
+- expected_values:
+    TERRITORY_CAT_TEMP: 802.8
+  response: 7E80562F43C20EC
