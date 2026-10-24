@@ -11,5 +11,5 @@ test_cases:
     7E803410D31
     7E804410C1E16
 - expected_values:
-    TERRITORY_MAP: 36
+    TERRITORY_MAP: 36.98493
   response: 7E80462F40BFF
