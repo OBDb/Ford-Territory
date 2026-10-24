@@ -1,13 +1,13 @@
-command_id: 7DF.221E1C
+command_id: 7DF.7ED.221E1C|f=2025-
 test_cases:
 - expected_values:
-    TERRITORY_TOT_7DF: 216.4375
+    TERRITORY_TOT_7DF_RAW: 3463
   response: 7ED05621E1C0D87
 - expected_values:
-    TERRITORY_TOT_7DF: 224.125
+    TERRITORY_TOT_7DF_RAW: 3586
   response: 7ED05621E1C0E02
 - expected_values:
-    TERRITORY_TOT_7DF: 224.8125
+    TERRITORY_TOT_7DF_RAW: 3597
   response: |-
     7ED05621E1C0E0D
     7ED04410C0000
@@ -26,7 +26,7 @@ test_cases:
     7EA06410098180011
     7E8064100BE3FA813
 - expected_values:
-    TERRITORY_TOT_7DF: 225.5625
+    TERRITORY_TOT_7DF_RAW: 3609
   response: |-
     7ED05621E1C0E19
     7ED03410D24
@@ -59,8 +59,8 @@ test_cases:
     7E803410F57
     7E803410B5F
 - expected_values:
-    TERRITORY_TOT_7DF: 239.8125
+    TERRITORY_TOT_7DF_RAW: 3837
   response: 7ED05621E1C0EFD
 - expected_values:
-    TERRITORY_TOT_7DF: 240.4375
+    TERRITORY_TOT_7DF_RAW: 3847
   response: 7ED05621E1C0F07

@@ -1,4 +1,4 @@
-command_id: 7DF.221E1C
+command_id: 7DF.7E9.221E1C|f=-2024
 test_cases:
 - expected_values:
     TERRITORY_TOT_7DF: 46.6875
