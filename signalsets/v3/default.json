@@ -1022,7 +1022,7 @@
   "signals": [
     {"id": "TERRITORY_DTC_CNT", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "DTC counter"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "fcm1": true, "cmd": {"22": "DD01"}, "freq": 30, "dbgfilter": { "to": 2011, "years": [2013], "from": 2015 },
+{ "hdr": "7E0", "rax": "7E8", "fcm1": true, "cmd": {"22": "DD01"}, "freq": 30, "dbgfilter": { "to": 2013, "from": 2015 },
   "signals": [
     {"id": "TERRITORY_ODO_7E0", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "nullmax": 4294967, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]},
